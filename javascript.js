@@ -1,0 +1,5 @@
+fumction sayHi() {
+  
+    alert("Hi");
+  
+}
